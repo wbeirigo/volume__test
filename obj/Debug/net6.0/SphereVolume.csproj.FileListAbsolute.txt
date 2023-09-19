@@ -1,0 +1,14 @@
+C:\Users\wbeirigo\source\repos\SphereVolume\bin\Debug\net6.0\SphereVolume.exe
+C:\Users\wbeirigo\source\repos\SphereVolume\bin\Debug\net6.0\SphereVolume.deps.json
+C:\Users\wbeirigo\source\repos\SphereVolume\bin\Debug\net6.0\SphereVolume.runtimeconfig.json
+C:\Users\wbeirigo\source\repos\SphereVolume\bin\Debug\net6.0\SphereVolume.dll
+C:\Users\wbeirigo\source\repos\SphereVolume\bin\Debug\net6.0\SphereVolume.pdb
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\SphereVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\SphereVolume.AssemblyInfoInputs.cache
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\SphereVolume.AssemblyInfo.cs
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\SphereVolume.csproj.CoreCompileInputs.cache
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\SphereVolume.dll
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\refint\SphereVolume.dll
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\SphereVolume.pdb
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\SphereVolume.genruntimeconfig.cache
+C:\Users\wbeirigo\source\repos\SphereVolume\obj\Debug\net6.0\ref\SphereVolume.dll
